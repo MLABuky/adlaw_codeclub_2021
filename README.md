@@ -3,3 +3,9 @@ developed over a series of code club episodes led by pat shloss to answer import
 in microbiology and develop confort using tools to develope reproducable research practices
 author: Audrey Law
 changed name from control cure to codeclub 
+
+
+
+
+Dependencies:
+mothur v.1.46.1
