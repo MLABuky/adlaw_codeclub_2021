@@ -2,3 +2,4 @@ Code Club project: Assessing whether intra and inter genomic variation hinder ut
 developed over a series of code club episodes led by pat shloss to answer important question 
 in microbiology and develop confort using tools to develope reproducable research practices
 author: Audrey Law
+changed name from control cure to codeclub 
