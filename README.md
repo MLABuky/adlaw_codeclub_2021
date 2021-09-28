@@ -7,4 +7,5 @@ Created over a series of code club episodes led by Pat Shloss to answer importan
 changed name from control cure to codeclub
 
 ### Dependencies:
-* [mothur v.1.46.1](https://github.com/mothur/mothur/releases/tag/v1.46.1)
+* [mothur v.1.46.1](https://github.com/mothur/mothur/releases/tag/v1.46.1) - `code/install_mothur.sh` installs mothur
+* `wget`
